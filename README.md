@@ -22,3 +22,4 @@ This blog post page introduces:
 You can easily expand this layout into a multi-post blog in future projects.
 
 See blog.png for template
+Photo by Markus Spiske from Pexels: https://www.pexels.com/photo/close-up-photo-of-codes-1089440/
